@@ -1,0 +1,6 @@
+#!/bin/sh
+
+xfce4-panel &
+nm-applet &
+feh --bg-fill --cache-size 0 ~/Downloads/wp/rei.jpg
+/usr/libexec/polkit-mate-authentication-agent-1 &
