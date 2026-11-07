@@ -1,0 +1,40 @@
+sys-apps/accountsservice elogind
+x11-libs/cairo X
+dev-cpp/cairomm X
+sys-apps/acountsservice elogind -systemd
+media-libs/freetype harfbuzz
+x11-libs/gdk-pixbuf jpeg
+gnome-base/gvfs udisks
+xfce-base/libxfce4windowing X
+x11-misc/lightdm elogind -systemd
+media-video/pipewire sound-server pulseaudio dbus elogind
+media-video/wireplumber elogind
+media-sound/pavucontrol X
+dev-python/pycairo X
+xfce-base/thunar -trash-panel-plugin
+x11-libs/cairo X
+sys-apps/acountsservice elogind -systemd
+x11-libs/gdk-pixbuf jpeg
+xfce-base/libxfce4windowing X
+media-video/pipewire sound-server pulseaudio dbus elogind
+media-video/wireplumber elogind
+media-sound/pavucontrol X
+xfce-base/thunar -trash-panel-plugin
+xfce-extra/xfce4-notifyd X
+xfce-base/xfce4-power-manager X
+x11-terms/xfce4-terminal X
+sys-apps/accountsservice elogind
+dev-cpp/cairomm X
+media-libs/freetype harfbuzz
+gnome-base/gvfs udisks
+x11-misc/lightdm elogind -systemd
+dev-python/pycairo X
+xfce-base/tumbler jpeg ffmpeg pdf
+xfce-base/xfce4-panel X
+xfce-extra/xfce4-screenshooter X
+xfce-base/tumbler jpeg ffmpeg pdf
+xfce-extra/xfce4-notifyd X
+xfce-base/xfce4-panel X
+xfce-base/xfce4-power-manager X
+xfce-extra/xfce4-screenshooter X
+x11-terms/xfce4-terminal X
